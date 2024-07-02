@@ -1,5 +1,1 @@
-1.Streamlit
-2.Opencv
-3.Numpy
-4.Pillow
-5.IO
+
